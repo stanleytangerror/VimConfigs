@@ -147,6 +147,8 @@ Bundle 'gmarik/vundle'
 "Bundle "kshenoy/vim-signature"
 "Bundle "bling/vim-airline"
 
+Bundle 'Valloric/YouCompleteMe'
+
 Bundle "dyng/ctrlsf.vim"
   nmap     <Leader>ff <Plug>CtrlSFPrompt
 
